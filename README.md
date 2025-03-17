@@ -1,0 +1,1 @@
+# jak_dziala_gpt_lab
